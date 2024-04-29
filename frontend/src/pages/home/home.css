@@ -1,0 +1,13 @@
+.home{
+    background-color: var(--main-color);
+    overflow: hidden;
+    padding-bottom: 50px;
+}
+.mt-20{
+    margin-top: 20px;
+}
+.search-bar-container{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
